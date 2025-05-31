@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. start the program
 2. create a file (credentials.txt) if it is not exist
 2. display the options and get the input from the user(1. Add credentials 2. View Credentials 3. Exit)
@@ -9,4 +10,17 @@
 4.  if the user chooses option 2- go to view credentials method
     a)Open the file (credentials.txt) in read mode
     b)read the details and print that in presentable way
+=======
+1. start the program
+2. create a file (credentials.txt) if it is not exist
+2. display the options and get the input from the user(1. Add credentials 2. View Credentials 3. Exit)
+3. if the user chooses option 1 - go to add credentials method
+   a) get the username, password and url as input from the user
+   b)Open the file (credentials.txt) in append mode
+   c)store these details in the file (credentials.txt) after ROT3 encryption
+     with comma seperated
+4.  if the user chooses option 2- go to view credentials method
+    a)Open the file (credentials.txt) in read mode
+    b)read the details and print that in presentable way
+>>>>>>> 4464293c4ac68a896d949b9e8dd30f3c215298f0
 5.otherwise exit the program
