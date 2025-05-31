@@ -38,7 +38,7 @@ while True:
     print("\n Options Menu:")
     print("1. Add credentials.")
     print("2. View credentials.")
-    print("3. Exit the script.")
+    print("3. Exit")
     choice = input("Enter your choice: ")
     if choice == "1":
      add_credentials(file_name)
