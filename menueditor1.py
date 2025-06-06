@@ -1,3 +1,12 @@
+'''
+Feedback:
+
+Hi Angel, Your pseudocode looks great and covers all the necessary steps for writing the script for the Password Manager for DigiCore.
+
+I have also executed your Python script. Could you please modify it to display a confirmation message stating 'Credentials have been added to the file' once the user has provided their username, password, and URL?
+'''
+
+
 import os
 import filefunctions
 #creating and opening a file in append mode
